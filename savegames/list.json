@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "updated": "2026-06-23",
+  "saves": [
+    {
+      "title_id": "41430019",
+      "game_name": "Burnout 2",
+      "saves": [
+        {
+          "id": "burnout_2_game_save_100_complete",
+          "label": "Profile 1 - 100% Complete (All Gold Medals, Tracks, and Cars)",
+          "file": "savegames/41430019/burnout_2_game_save_100_complete.zip",
+          "size_bytes": 11664,
+          "author": "IraqiDrunk",
+          "notes": "100% Complete (All Gold Medals, Tracks, and Cars)"
+        }
+      ]
+    },
+    {
+      "title_id": "4553000d",
+      "game_name": "Backyard Wrestling",
+      "saves": [
+        {
+          "id": "backyard_wrestling_save_100",
+          "label": "AutoSaveGame - 100 % all characters and movies unlocked",
+          "file": "savegames/4553000d/backyard_wrestling_save_100.zip",
+          "size_bytes": 9809,
+          "author": "taz2k2",
+          "notes": "100 % all characters and movies unlocked"
+        }
+      ]
+    },
+    {
+      "title_id": "4d530051",
+      "game_name": "Conkers Live And Reloaded",
+      "saves": [
+        {
+          "id": "conker_live_reloaded",
+          "label": "Conkers Live And Reloaded",
+          "file": "savegames/4d530051/conker_live_reloaded.zip",
+          "size_bytes": 8261,
+          "author": "Unknown",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "title_id": "56550005",
+      "game_name": "Buffy The Vampire Slayer Chaos Bleeds",
+      "saves": [
+        {
+          "id": "buffy_the_vampire_slayer_chaos_bleeds",
+          "label": "Buffy The Vampire Slayer Chaos Bleeds",
+          "file": "savegames/56550005/buffy_the_vampire_slayer_chaos_bleeds.zip",
+          "size_bytes": 7889,
+          "author": "Unknown",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}
