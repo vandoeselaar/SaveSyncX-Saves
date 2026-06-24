@@ -169,6 +169,20 @@
           "notes": ""
         }
       ]
+    },
+    {
+      "title_id": "54430007",
+      "game_name": "Dead Or Alive Xtreme Beach Volley Ball",
+      "saves": [
+        {
+          "id": "DOAXBVB",
+          "label": "Dead Or Alive Xtreme Beach Volley Ball",
+          "file": "54430007/DOAXBVB.zip",
+          "size_bytes": 14528,
+          "author": "Unknown",
+          "notes": ""
+        }
+      ]
     }
   ]
 }
