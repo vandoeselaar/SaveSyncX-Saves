@@ -172,12 +172,12 @@
     },
     {
       "title_id": "54430007",
-      "game_name": "Dead Or Alive Xtreme Beach Volley Ball",
+      "game_name": "Dead Or Alive Xtreme Beach Volleyball",
       "saves": [
         {
           "id": "DOAXBVB",
-          "label": "Dead Or Alive Xtreme Beach Volley Ball",
-          "file": "54430007/DOAXBVB.zip",
+          "label": "Dead Or Alive Xtreme Beach Volleyball",
+          "file": "54430007/DOAXBV.zip",
           "size_bytes": 14528,
           "author": "Unknown",
           "notes": ""
