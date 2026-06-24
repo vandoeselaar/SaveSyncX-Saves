@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-06-23",
+  "updated": "2026-06-24",
   "saves": [
     {
       "title_id": "4541000d",
@@ -120,6 +120,14 @@
       "saves": [
         {
           "id": "burnout_2_game_save_100_complete",
+          "label": "Profile 1 - 100% Complete (All Gold Medals, Tracks, and Cars)",
+          "file": "41430019/burnout_2_game_save_100_complete.zip",
+          "size_bytes": 11664,
+          "author": "IraqiDrunk",
+          "notes": "100% Complete (All Gold Medals, Tracks, and Cars)"
+        },
+        {
+          "id": "burnout_2_game_save_100_complete_new",
           "label": "Profile 1 - 100% Complete (All Gold Medals, Tracks, and Cars)",
           "file": "41430019/burnout_2_game_save_100_complete.zip",
           "size_bytes": 11664,
